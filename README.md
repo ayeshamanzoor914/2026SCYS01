@@ -129,22 +129,22 @@ Java-Programming-Practice/
 
 ## 🚀 Learning Progress
 
-* [x] Java basics
-* [x] Variables and data types
-* [x] User input
-* [x] Type casting
-* [x] Operators
-* [x] Conditional statements
-* [x] Loops
-* [x] Arrays
-* [ ] ArrayList
-* [ ] Methods
-* [ ] Classes & Objects
-* [ ] Constructors
-* [ ] OOP
-* [ ] Exception Handling
-* [ ] File Handling
-* [ ] Advanced Java
+*  Java basics
+*  Variables and data types
+*  User input
+ * Type casting
+*  Operators
+* Conditional statements
+ * Loops
+*  Arrays
+* ArrayList
+*  Methods
+*  Classes & Objects
+*  Constructors
+*  OOP
+*  Exception Handling
+*  File Handling
+*Advanced Java
 
 ## 💡 Practice Examples
 
@@ -166,7 +166,4 @@ My goal is to develop a strong foundation in **Java programming and OOP** and us
 
 ---
 
-**Learning Java one program at a time. ☕💻**
-
-> Practice → Understand → Build → Improve
 
